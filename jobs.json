@@ -1,0 +1,52 @@
+{
+    "jobs":[
+        {
+            "companyName": "Google",
+            "jobName": "Software Developer Engineer",
+            "numberCandidatesNeeded" : 1,
+            "salary": 10000,
+            "finalYear_min": 2002,
+            "finalYear_max": 2020,
+            "experienceYears_min": 2,
+            "experienceYears_max": 6,
+            "meanGPA_min": 8,
+            "meanGPA_max": null
+        },
+        {
+            "companyName": "Google",
+            "jobName": "Software Developer Engineer Intern",
+            "numberCandidatesNeeded" : 1,
+            "salary": 5000,
+            "finalYear_min": null,
+            "finalYear_max": null,
+            "experienceYears_min": 0,
+            "experienceYears_max": 2,
+            "meanGPA_min": 9,
+            "meanGPA_max": null
+        },
+        {
+            "companyName": "Amazon",
+            "jobName": "Software Developer Engineer",
+            "numberCandidatesNeeded" : 1,
+            "salary": 12000,
+            "finalYear_min": 2014,
+            "finalYear_max": 2020,
+            "experienceYears_min": 1,
+            "experienceYears_max": null,
+            "meanGPA_min": 9,
+            "meanGPA_max": null
+        },
+        {
+            "companyName": "Amazon",
+            "jobName": "Software Developer Engineer Intern",
+            "numberCandidatesNeeded" : 1,
+            "salary": 6000,
+            "finalYear_min": null,
+            "finalYear_max": null,
+            "experienceYears_min": 0,
+            "experienceYears_max": 2,
+            "meanGPA_min": 9.35,
+            "meanGPA_max": null
+        }
+    ]
+}
